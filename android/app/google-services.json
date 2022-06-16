@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537831035265",
+    "project_id": "boma-27b0f",
+    "storage_bucket": "boma-27b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537831035265:android:88e863b75ea03635511880",
+        "android_client_info": {
+          "package_name": "com.owlworld.boma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537831035265-nf6ci5v4bvvl6sm7v07lkbndum0ur5rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQod6yl3whj2Ly9rlaNnk4GUe_bxtL6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537831035265-nf6ci5v4bvvl6sm7v07lkbndum0ur5rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
